@@ -1,0 +1,18 @@
+WebCloner — Site Clone Report
+==================================================
+Source      : https://eatrading.id/
+Cloned at   : 2026-09-27 14:09:48
+Pages       : 1
+Assets      : 0
+Time        : 3.4s
+
+Pages cloned:
+--------------------------------------------------
+  index.html                                          ← https://eatrading.id/
+
+DISCLAIMER
+--------------------------------------------------
+This is a static visual snapshot of publicly accessible
+content. No backend, authentication, or API functionality
+is present. Do not publish or redistribute this clone.
+Respect the original site's Terms of Service.

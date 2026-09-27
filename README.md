@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="public/logo.png" alt="WebCloner Logo" width="96" />
+  <img src="public/logo.png" alt="jpxtrading.id WebCloner Logo" width="96" />
   <br />
-  WebCloner
+  jpxtrading.id WebCloner
 </h1>
 
 <p align="center">
@@ -44,7 +44,7 @@ Getting started with WebCloner is fast:
 ### macOS / Linux
 
 ```bash
-git clone https://github.com/nikomarinovic/WebCloner.git
+git clone https://github.com/jpxcode/WebCloner.git
 cd WebCloner
 ```
 
@@ -62,7 +62,7 @@ playwright install chromium
 ### Windows (PowerShell)
 
 ```bash
-git clone https://github.com/nikomarinovic/WebCloner.git
+git clone https://github.com/jpxcode/WebCloner.git
 cd WebCloner
 ```
 
@@ -161,11 +161,16 @@ WebCloner downloads only publicly accessible content and does not bypass authent
 ---
 
 <h3 align="center">
-WebCloner does not accept feature implementations via pull requests. Feature requests and bug reports are welcome via GitHub Issues.
+jpxtrading.id WebCloner does not accept feature implementations via pull requests. Feature requests and bug reports are welcome via GitHub Issues.
 </h3>
 
 ---
 
 <p align="center">
-  © 2026 Niko Marinović. All rights reserved.
+  © 2026 jpXCode. All rights reserved.
+</p>
+
+<p align="center">
+  <a href="https://jpxcode.pages.dev">jpxcode.pages.dev</a> · 
+  <a href="https://t.me/+QfMZP1CygAM3MDA1">Telegram Group</a>
 </p>

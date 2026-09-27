@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-main.py — WebCloner
-===================
+main.py — jpxtrading.id WebCloner
+==================================
 Clone the publicly visible appearance of a website into
 a local static snapshot for educational purposes.
 """
@@ -20,10 +20,11 @@ log = setup_logger("main")
 # --------------------------------------------------
 # Metadata
 # --------------------------------------------------
-APP_NAME = "WebCloner"
+APP_NAME = "jpxtrading.id WebCloner"
 VERSION = "v1.0.0"
-AUTHOR = "Niko Marinović"
-GITHUB = "https://github.com/nikomarinovic"
+AUTHOR = "jpXCode"
+GITHUB = "https://jpxcode.pages.dev"
+TELEGRAM = "https://t.me/+QfMZP1CygAM3MDA1"
 
 # --------------------------------------------------
 # ANSI Colors
@@ -41,8 +42,7 @@ BANNER = r"""
 ██▪▐█▐▐▌▐▀▀▪▄▐█▀▀█▄██ ▄▄██▪   ▄█▀▄ ▐█▐▐▌▐▀▀▪▄▐▀▀▄ 
 ▐█▌██▐█▌▐█▄▄▌██▄▪▐█▐███▌▐█▌▐▌▐█▌.▐▌██▐█▌▐█▄▄▌▐█•█▌
  ▀▀▀▀ ▀▪ ▀▀▀ ·▀▀▀▀ ·▀▀▀ .▀▀▀  ▀█▄▀▪▀▀ █▪ ▀▀▀ .▀  ▀
-       
-                                                                                                                          
+                                                                                                                           
 """
 
 # --------------------------------------------------
@@ -54,7 +54,8 @@ def print_banner():
     print(GRAY + f" Tool    : {APP_NAME}" + RESET)
     print(GRAY + f" Version : {VERSION}" + RESET)
     print(GRAY + f" Author  : {AUTHOR}" + RESET)
-    print(GRAY + f" GitHub  : {GITHUB}" + RESET)
+    print(GRAY + f" Website : {GITHUB}" + RESET)
+    print(GRAY + f" Telegram: {TELEGRAM}" + RESET)
 
     print(GRAY + """
  DISCLAIMER
